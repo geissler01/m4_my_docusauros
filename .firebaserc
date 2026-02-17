@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "geisler-p1",
+    "docu-actividades": "docu-m4-activities-g"
+  },
+  "targets": {},
+  "etags": {}
+}
